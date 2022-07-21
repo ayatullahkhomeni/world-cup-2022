@@ -155,13 +155,6 @@ h2 {
     padding-left: 5px;
 }
 
-.t {
-    border: 1px solid forestgreen;
-    width: 100px;
-    height: 32px;
-    padding: 0px 0px 0px 10px;
-}
-
 .clock,
 .time,
 .chat,
@@ -181,7 +174,10 @@ h2 {
 }
 
 .t {
+    width: 100px;
+    height: 32px;
     padding-left: 20px;
+    background-color: indianred;
 }
 
 .play-info {

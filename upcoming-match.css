@@ -182,6 +182,12 @@ h2 {
     margin: 0px 300px 20px 300px;
 }
 
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    margin: 20px 2px 10px 20px;
+}
+
 .fa-facebook-square,
 .fa-twitter,
 .fa-linkedin {
@@ -196,9 +202,14 @@ h2 {
 }
 
 .flag-info img {
-    width: 120px;
-    height: 80px;
+    width: 80px;
+    height: 60px;
     padding: 20px;
+}
+
+.play-info,
+p {
+    padding-left: 20px;
 }
 
 footer {
