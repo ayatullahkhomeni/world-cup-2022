@@ -74,7 +74,7 @@ a:active {
     padding: 10%;
 }
 
-.upcoming-match,
+.blog,
 .all-group {
     width: 252px;
     height: 64px;
@@ -85,7 +85,7 @@ a:active {
     font-size: 20px;
 }
 
-.blog {
+.upcoming-match {
     width: 252px;
     height: 64px;
     background-color: indianred;
@@ -101,14 +101,18 @@ a:active {
     margin: 5px 10px;
 }
 
+.france-plag,
+.france-plag {
+    width: 92px;
+    height: 54px;
+}
+
 footer {
-    background-color: skyblue;
+    background-color: indianred;
     border-radius: 10px;
     color: white;
     text-align: center;
 }
-
-
 
 .container2 {
     background-color: #161616;
